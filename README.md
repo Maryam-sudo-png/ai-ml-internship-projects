@@ -38,14 +38,14 @@ pip install -r requirements.txt
 - Seaborn
 - Scikit-learn
 - yfinance
-RESULTS:
-## 📈 Results
+
+
+ ## 📈 Results
 
 - Visualizations for Iris dataset
 - Stock price prediction graph (Actual vs Predicted)
 - Heart disease classification metrics and ROC curve
-KEY LEARNINGS:
-## 🎯 Key Learnings
+🎯 Key Learning
 
 - Data cleaning and preprocessing
 - Data visualization techniques
