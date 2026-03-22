@@ -41,14 +41,4 @@ pip install -r requirements.txt
 
 
  
-**❤️RESULTS***
 
-- Visualizations for Iris dataset
-- Stock price prediction graph (Actual vs Predicted)
-- Heart disease classification metrics and ROC curve
-**🎯Key Learning***
-
-- Data cleaning and preprocessing
-- Data visualization techniques
-- Machine learning model building
-- Model evaluation metrics
