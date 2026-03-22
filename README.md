@@ -40,7 +40,8 @@ pip install -r requirements.txt
 - yfinance
 
 
- ## 📈 Results
+ 
+## ❤️ RESULTS
 
 - Visualizations for Iris dataset
 - Stock price prediction graph (Actual vs Predicted)
