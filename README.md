@@ -1,5 +1,3 @@
-# machine-learning-projects-python
-AI/ML internship tasks including data analysis, stock prediction, and heart disease classification using Python, Pandas, Scikit-learn, and visualization libraries.
 # AI/ML Internship Projects
 
 This repository contains 3 beginner-friendly AI/ML projects:
